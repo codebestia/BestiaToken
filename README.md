@@ -44,7 +44,6 @@ Set your `WEB3_INFURA_PROJECT_ID`, and `PRIVATE_KEY` [environment variables](htt
 
 You can get a `WEB3_INFURA_PROJECT_ID` by getting a free trial of [Infura](https://infura.io/). At the moment, it does need to be infura with brownie. You can find your `PRIVATE_KEY` from your ethereum wallet like [metamask](https://metamask.io/). 
 
-You'll also need testnet Goerli ETH and FAU or WETH. You can get ETH into your wallet by using the [Goerli faucets located here](https://faucets.chain.link/goerli). You can get FAU into your wallet by using the [FAU faucets located here](https://erc20faucet.com/).
 
 You'll also want an [Etherscan API Key](https://etherscan.io/apis) to verify your smart contracts. 
 
