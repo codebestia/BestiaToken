@@ -26,9 +26,8 @@ pipx install eth-brownie
 2. Clone this repo
 ```
 # open your terminal
-git clone https://github.com/codebestia/TokenFarm.git
-cd tokenfarm
-cd contract
+git clone https://github.com/codebestia/BestiaToken.git
+cd BestiaToken
 ```
 
 3. [Install ganache-cli](https://www.npmjs.com/package/ganache-cli)
